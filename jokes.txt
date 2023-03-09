@@ -22,3 +22,5 @@ I have a joke about deep learning, but I can’t explain it.
 I have a statistics joke, but it’s not significant.
 What do you get when you cross a mosquito with a mountain climber? Nothing. You can’t cross a vector and a scalar.
 I used to think correlation implied causation. Then I took a Statistics class. Now, I don't.
+What does a Machine Learning specialist and a Fashion Designer have in common? They both specialize in curve-fitting.
+When the first device with AI takes a picture of itself… It’ll be selfie aware.
